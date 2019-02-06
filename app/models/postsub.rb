@@ -1,0 +1,2 @@
+class Postsub < ApplicationRecord
+end
